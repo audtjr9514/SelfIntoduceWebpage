@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Brush+Script');
+
+.container1 {
+	width: 960px;
+	margin: 0 auto;
+	font-family: 'Nanum Brush Script', cursive;
+}
+
+nav {
+	width: 100%;
+	height: 70px;
+	margin: 0 auto;
+}
+
+.h1{
+	float: left; 
+}
+
+h1 {
+	font-size: 25px;
+	padding-top:25px;
+}
+
+.h1_2{
+	margin: 0 auto;
+	margin-left: 720px;
+	padding-top: 23px;
+	word-spacing: 10px;
+	font-size: 15px;
+}
+
+a {
+	float: right;
+	font-size: 15px;
+}
+
+header {
+	width: 100%;
+	padding-top: 10px;
+}
+
+.Header{
+	background-image: url("하늘.jpg");
+	background-size: cover;
+	margin:0 auto;
+	width: 100%;
+	height:500px;
+}
+
+h2 {
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	padding-top:100px;
+}
+header p{
+	font-size: 18px;
+	line-height: 10px;
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+}
+
+
+
+section{s
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+}
+
+.grid {
+	font-weight: bold;
+	display: grid;
+	grid-template-columns: 310px 310px 310px;
+	grid-template-rows: 320px 320px;
+}
+
+.a{
+	width: 310px;
+	height: 310px;
+	padding-top: 7px;
+}
+
+p {
+	font-size: 15px;
+	line-height: 10px;
+	padding-top: 10px;
+	font-weight:bold;
+}
+#SNS {
+	color:blue;
+}
+
+footer {
+	width: 100%;
+	height: 70px;
+	padding-top:100px;
+}
+
+.sns{
+	font-size: 15px;
+	text-align: center;
+	margin:0 auto;
+}
